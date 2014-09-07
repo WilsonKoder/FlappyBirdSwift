@@ -1,0 +1,94 @@
+TFlappyBirdSwift
+v7
+r1
+cCheck dependencies
+cCompileSwift normal armv7 com.apple.xcode.tools.swift.compiler
+cDitto /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.h
+cDitto /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodule
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies861f102da58cb941^b83c1e2da58cb941^---0#1#1#--18"Check dependencies36"A1DEB4CC-3383-4D5B-9F5E-9B56421C410E-
+
+CCodeSign /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app
+r0
+
+CCompileAssetCatalog /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/Images.xcassets
+r0
+
+CCompileStoryboard /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/Base.lproj/Main.storyboard
+r0
+
+CCompileSwift normal armv7 com.apple.xcode.tools.swift.compiler
+s428647725.100048
+e428647727.069159
+r1
+xCompileSwift
+xnormal
+xarmv7
+xcom.apple.xcode.tools.swift.compiler
+d/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/AppDelegate.swift
+d/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/GameScene.swift
+d/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/GameViewController.swift
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Compile Swift source files62"CompileSwift normal armv7 com.apple.xcode.tools.swift.compiler99b8192da58cb941^eeb4112fa58cb941^---0#0#1#--3540"CompileSwift normal armv7 com.apple.xcode.tools.swift.compiler    cd /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift    export PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode6-Beta3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode6-Beta3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift -target armv7-apple-ios8.0 -module-name FlappyBirdSwift -O0 -sdk /Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk -g -module-cache-path /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/ModuleCache -I /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos -F /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos -c -j4 /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/GameScene.swift /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/GameViewController.swift /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/AppDelegate.swift -output-file-map /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-OutputFileMap.json -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodule -Xcc -I/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/FlappyBirdSwift-generated-files.hmap -Xcc -I/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/FlappyBirdSwift-own-target-headers.hmap -Xcc -I/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/FlappyBirdSwift-all-target-headers.hmap -Xcc -iquote -Xcc /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/FlappyBirdSwift-project-headers.hmap -Xcc -I/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/include -Xcc -I/Applications/Xcode6-Beta3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Xcc -I/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/armv7 -Xcc -I/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources -Xcc -DDEBUG=1 -emit-objc-header -emit-objc-header-path /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.h36"4DDF3F0A-59BC-476A-B3C4-0F5D305BDEF9-
+b3FB0216E-71DC-4506-A720-CBC6C7C991D5
+
+CCopyPNGFile /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/Bird.png FlappyBirdSwift/Bird.png
+r0
+
+CCopyPNGFile /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/floor.png FlappyBirdSwift/floor.png
+r0
+
+CCopyPNGFile /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/pipedown.png FlappyBirdSwift/pipedown.png
+r0
+
+CCopyPNGFile /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/pipeup.png FlappyBirdSwift/pipeup.png
+r0
+
+CCopySwiftLibs /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app
+r0
+
+CCpResource /Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk/ResourceRules.plist DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/ResourceRules.plist
+r0
+
+CCpResource FlappyBirdSwift/GameScene.sks DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/GameScene.sks
+r0
+
+CDitto /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.h
+s428647727.069945
+e428647727.079710
+r1
+xDitto
+x/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h
+x/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.h
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection199"Copy /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h303"Ditto DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.hc2f8112fa58cb941^a968142fa58cb941^---0#0#1#-19%DVTDocumentLocation2@201"file:///Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h003414c2ddffdf42^983"Ditto DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.h    cd /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift    export PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode6-Beta3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/ditto -rsrc /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift-Swift.h /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/DerivedSources/FlappyBirdSwift-Swift.h36"924E1AD3-F050-41FA-8852-8FA4963C1326-
+b3FB0216E-71DC-4506-A720-CBC6C7C991D5
+
+CDitto /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodule
+s428647727.080154
+e428647727.086133
+r1
+xDitto
+x/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule
+x/Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodule
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection16"Copy swiftmodule263"Ditto DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodulebc92142fa58cb941^793b162fa58cb941^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule003414c2ddffdf42^903"Ditto DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodule    cd /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift    export PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode6-Beta3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/ditto -rsrc /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/Objects-normal/armv7/FlappyBirdSwift.swiftmodule /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.swiftmodule/arm.swiftmodule36"DFA02C70-AE8F-4077-8074-642EE55B2732-
+b3FB0216E-71DC-4506-A720-CBC6C7C991D5
+
+CGenerateDSYMFile /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app.dSYM /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/FlappyBirdSwift
+r0
+
+CLd /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/FlappyBirdSwift normal armv7
+r0
+
+CProcessInfoPlistFile /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/Info.plist /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/FlappyBirdSwift/Info.plist
+r0
+
+CProcessProductPackaging /Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk/Entitlements.plist /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Intermediates/FlappyBirdSwift.build/Debug-iphoneos/FlappyBirdSwift.build/FlappyBirdSwift.app.xcent
+r0
+
+CProcessProductPackaging /Users/WilsonKoder/Library/MobileDevice/Provisioning\ Profiles/5BD1D26D-B1B3-4E7B-8AE9-FFE971277AED.mobileprovision /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app/embedded.mobileprovision
+r0
+
+CTouch /Users/WilsonKoder/Desktop/Swift/FlappyBirdSwift/DerivedData/FlappyBirdSwift/Build/Products/Debug-iphoneos/FlappyBirdSwift.app
+r0
+
